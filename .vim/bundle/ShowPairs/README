@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=626
+
+ShowPairs highlights the matching pair surrounding the current cursor location.  The main goal of this script is to highlight matching braces and parenthesis making it easier to edit nested expressions.
+However, ShowPairs uses the 'matchpairs' global option to determine what it should highlight, so it should be generic enough for other needs.

@@ -1,0 +1,10 @@
+'showpairs_enable'	showpairs.txt	/*'showpairs_enable'*
+'showpairs_limit'	showpairs.txt	/*'showpairs_limit'*
+ShowPairsToggle	showpairs.txt	/*ShowPairsToggle*
+showpairs	showpairs.txt	/*showpairs*
+showpairs-changelog	showpairs.txt	/*showpairs-changelog*
+showpairs-commands	showpairs.txt	/*showpairs-commands*
+showpairs-configuration	showpairs.txt	/*showpairs-configuration*
+showpairs-contents	showpairs.txt	/*showpairs-contents*
+showpairs-highlighting	showpairs.txt	/*showpairs-highlighting*
+showpairs.txt	showpairs.txt	/*showpairs.txt*
